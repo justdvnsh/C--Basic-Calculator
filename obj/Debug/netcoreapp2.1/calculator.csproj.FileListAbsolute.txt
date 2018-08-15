@@ -1,0 +1,11 @@
+C:\Users\Divyansh\Desktop\Code\C#\calculator\obj\Debug\netcoreapp2.1\calculator.csprojAssemblyReference.cache
+C:\Users\Divyansh\Desktop\Code\C#\calculator\obj\Debug\netcoreapp2.1\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Divyansh\Desktop\Code\C#\calculator\obj\Debug\netcoreapp2.1\calculator.AssemblyInfoInputs.cache
+C:\Users\Divyansh\Desktop\Code\C#\calculator\obj\Debug\netcoreapp2.1\calculator.AssemblyInfo.cs
+C:\Users\Divyansh\Desktop\Code\C#\calculator\bin\Debug\netcoreapp2.1\calculator.deps.json
+C:\Users\Divyansh\Desktop\Code\C#\calculator\bin\Debug\netcoreapp2.1\calculator.runtimeconfig.json
+C:\Users\Divyansh\Desktop\Code\C#\calculator\bin\Debug\netcoreapp2.1\calculator.runtimeconfig.dev.json
+C:\Users\Divyansh\Desktop\Code\C#\calculator\bin\Debug\netcoreapp2.1\calculator.dll
+C:\Users\Divyansh\Desktop\Code\C#\calculator\bin\Debug\netcoreapp2.1\calculator.pdb
+C:\Users\Divyansh\Desktop\Code\C#\calculator\obj\Debug\netcoreapp2.1\calculator.dll
+C:\Users\Divyansh\Desktop\Code\C#\calculator\obj\Debug\netcoreapp2.1\calculator.pdb
